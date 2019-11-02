@@ -1,10 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to PokemonCIARoms
 
-You can use the [editor on GitHub](https://github.com/pokemonciaroms/index.html/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 Welcome to Pokemon CIA Files. Below will be a plethora of files which are all converted to the .CIA file type required to play on a MODDED Nintendo 2DS and 3DS System. Please feel free to download as many as you'd like and enjoy! This website has been used by thousands since 2017!
 
 ```markdown
