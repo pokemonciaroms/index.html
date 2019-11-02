@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Welcome to Pokemon CIA Files. Below will be a plethora of files which are all converted to the .CIA file type required to play on a MODDED Nintendo 2DS and 3DS System. Please feel free to download as many as you'd like and enjoy! This website has been used by thousands since 2017!
 
 # Header 1
 ## Header 2
