@@ -17,7 +17,8 @@ Welcome to Pokemon CIA Files. Below will be a plethora of files which are all co
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Joel](https://user-images.githubusercontent.com/57238779/68072877-f3c56b00-fd60-11e9-9ddb-a699376a0daa.png)
+http://getmyfile.org/file/364DC8
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
